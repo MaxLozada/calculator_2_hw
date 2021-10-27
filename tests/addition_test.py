@@ -4,4 +4,4 @@ from calculator.operations.addition import Addition
 
 def test_addition():
     """ testing result"""
-    assert add(1, 1) == 2
+    assert Addition.add(1, 1) == 2

@@ -15,7 +15,7 @@ class Calculator:
 
     def add_number(self, value_a, value_b):
         """ adds number to result"""
-        self.result = add(value_a, value_b)
+        self.result = Addition.add(value_a, value_b)
         return self.result
 
     def subtract_number(self, value_a, value_b):
