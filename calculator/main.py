@@ -1,8 +1,8 @@
 """ This is the increment function"""
-from calculator.Operations.addition import Addition
-from calculator.Operations.division import Division
-from calculator.Operations.multiplication import Multiplication
-from calculator.Operations.subtraction import Subtraction
+from calculator.operations.addition import Addition
+from calculator.operations.division import Division
+from calculator.operations.multiplication import Multiplication
+from calculator.operations.subtraction import Subtraction
 
 class Calculator:
     """ This is the Calculator class"""

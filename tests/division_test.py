@@ -1,6 +1,6 @@
 """ testing division """
 
-from calculator.Operations.division import Division
+from calculator.operations.division import Division
 
 def test_division():
     """ testing result"""

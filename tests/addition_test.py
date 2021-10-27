@@ -1,6 +1,6 @@
 """ testing addition """
 
-from calculator.Operations.addition import Addition
+from calculator.operations.addition import Addition
 
 def test_addition():
     """ testing result"""

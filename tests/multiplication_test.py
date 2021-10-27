@@ -1,6 +1,6 @@
 """ testing multiplication """
 
-from calculator.Operations.multiplication import Multiplication
+from calculator.operations.multiplication import Multiplication
 
 def test_multiplication():
     """ testing result"""

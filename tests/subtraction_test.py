@@ -1,6 +1,6 @@
 """ testing subtraction """
 
-from calculator.Operations.subtraction import Subtraction
+from calculator.operations.subtraction import Subtraction
 
 def test_subtraction():
     """ testing result"""
