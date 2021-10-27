@@ -1,4 +1,4 @@
-# Calculator Project Setup
+# Calculator
 
 Run Pip Install
 pip install -r requirements.txt
