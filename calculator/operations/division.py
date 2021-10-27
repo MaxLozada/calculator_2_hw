@@ -1,5 +1,6 @@
 """ division class"""
 
+
 class Division:
 
     @staticmethod
@@ -17,10 +18,3 @@ class Division:
         except ZeroDivisionError as e:
             print(e)
             return 0
-
-
-
-
-
-
-        """ return value_a / value_b if value_b else 0 """

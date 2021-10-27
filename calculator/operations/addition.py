@@ -1,12 +1,8 @@
 """ addition class """
 
+
 class Addition:
 
-    @staticmethod
-    def add(value_a: int, value_b: int):
-        return value_a + value_b
-
-    @staticmethod
     def add(value_a: float, value_b: float):
+        """ addition with value_a and value_b"""
         return value_a + value_b
-

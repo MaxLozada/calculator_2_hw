@@ -7,9 +7,7 @@ from calculator.operations.subtraction import Subtraction
 class Calculator:
     """ This is the Calculator class"""
 
-    """default constructor"""
-    def __init__(self):
-        self.result = 0
+    result = 0
 
     def get_result(self):
         """ Get Result of Calculation"""
@@ -17,7 +15,7 @@ class Calculator:
 
     def add_number(self, value_a, value_b):
         """ adds number to result"""
-        self.result = Addition.add(value_a, value_b)
+        self.result = add(value_a, value_b)
         return self.result
 
     def subtract_number(self, value_a, value_b):
