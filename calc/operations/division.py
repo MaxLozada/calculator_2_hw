@@ -15,4 +15,3 @@ class Division(Calculation): # pylint: disable=too-few-public-methods
                 print(e)
                 return "No Zero in the Denominator"
             return quotient_of_value
-
