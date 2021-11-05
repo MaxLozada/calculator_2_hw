@@ -11,4 +11,4 @@ branches:
   only:
     - main
     - development
-    - calc version2
+    - calc-version2
