@@ -1,4 +1,5 @@
 # Calculator
+[![Build Status](https://app.travis-ci.com/MaxLozada/calculator_2_hw.svg?branch=calc-version2)](https://app.travis-ci.com/MaxLozada/calculator_2_hw)
 
 Run Pip Install
 pip install -r requirements.txt
