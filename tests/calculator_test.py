@@ -86,3 +86,4 @@ def test_get_calculation_last(clear_history_fixture):
     assert Calculator.get_calculation_last() == 9
     Calculator.clear_history()
     assert Calculator.get_calculation_last() == "Zero History Currently"
+    
