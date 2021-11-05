@@ -5,4 +5,3 @@ class Calculation: # pylint: disable=too-few-public-methods
 
     def __init__(self, *args):
         self.values = args
-        
